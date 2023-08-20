@@ -4,6 +4,7 @@
  
 .bak dosyasını MSSQL aracılığı ile yükleyerek kullanabilirsiniz. 
 
-Hepsi bu kadar. Üniversite bitirme projemdi. 
-Paylaşmak istedim. Udemy üzerinde kurs yardımıyla yapmıştım.
-Bu kadar... :)
+Gerekli olanlar:
+- Visual Studio 
+- Devekspress
+- MSSQL
