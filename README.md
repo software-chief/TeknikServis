@@ -5,6 +5,6 @@
 .bak dosyasını MSSQL aracılığı ile yükleyerek kullanabilirsiniz. 
 
 Gerekli olanlar:
-- Visual Studio 
+- Visual Studio
 - Devekspress
 - MSSQL
